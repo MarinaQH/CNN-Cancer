@@ -1,3 +1,3 @@
-# CNN-Heart
+# CNN-Cancer
 
-Aims to detect heart attacks using CNN 
+Aims to detect cancer using CNN 
